@@ -180,7 +180,6 @@ hr {
 footer {
   
     /* Spatial Settings */
-    min-width: calc(var(--EM) * 10);
     max-width: calc(var(--EM) * 24);
     width: 25%;
     margin-left: calc(var(--EM) * 1);
