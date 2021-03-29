@@ -6,13 +6,13 @@
     --EM: 18px;
 
     /* Color Palette */
-    --color1: #444;
-    --color2: #111;
-    --color3: #1200b4;
-    --backgroundColor: #fafafa;
+    --color1: rgb(75, 75, 75);
+    --color2: rgb(50, 50, 50);
+    --color3: rgb(0, 0, 0);
+    --backgroundColor: rgb(240,240,240);
 
     /* Text */
-    --primaryFont: cronos-pro;
+    --primaryFont: psfournier-std;
 
     /* Weight */
     --weightU: 100;
