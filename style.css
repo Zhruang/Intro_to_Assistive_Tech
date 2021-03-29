@@ -12,7 +12,8 @@
     --backgroundColor: rgb(240,240,240);
 
     /* Text */
-    --primaryFont: psfournier-std;
+    --primaryFont: psfournier-std-petit;
+    --secondaryFont: psfournier-std;
 
     /* Weight */
     --weightU: 100;
@@ -40,7 +41,7 @@
 
 body {
     /* Emergency Fallback*/
-    font-family: var(--primaryFont), sans-serif;
+    font-family: var(--primaryFont), serif;
 
     background-color: var(--backgroundColor);
 
@@ -61,7 +62,7 @@ h1 {
     padding-right: calc(var(--EM) * 1);
     max-width: calc(var(--EM) * 40);
     /* Text */
-    font-family: var(--primaryFont), sans-serif;
+    font-family: var(--secondaryFont), serif;
     font-size: var(--h1Size);
     font-weight: var(--weightR);
     font-style: normal;
@@ -86,7 +87,7 @@ h2 {
     max-width: fit-content;
 
     /* Text */
-    font-family: var(--primaryFont), sans-serif;
+    font-family: var(--primaryFont), serif;
     font-size: var(--h2Size);
     font-weight: var(--weightB);
     font-style: normal;
@@ -108,7 +109,7 @@ h3 {
     padding-bottom: calc(var(--EM) * 1.5);
     
     /* Text */
-    font-family: var(--primaryFont), sans-serif;
+    font-family: var(--primaryFont), serif;
     font-size: var(--h3Size);
     font-weight: var(--weightB);
     font-style: normal;
@@ -126,7 +127,7 @@ p {
     margin: 0;
 
     /* Text */
-    font-family: var(--primaryFont), sans-serif;
+    font-family: var(--primaryFont), serif;
     font-size: var(--pSize);
     font-weight: var(--weightR);
     font-style: normal;
@@ -192,7 +193,7 @@ footer {
     max-width: fit-content;
 
     /* Text */
-    font-family: var(--primaryFont), sans-serif;
+    font-family: var(--primaryFont), serif;
     font-size: var(--capSizepSize);
     font-weight: var(--weightR);
 
