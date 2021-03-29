@@ -9,11 +9,11 @@
     --color1: rgb(75, 75, 75);
     --color2: rgb(50, 50, 50);
     --color3: rgb(0, 0, 0);
-    --backgroundColor: rgb(240,240,240);
+    --backgroundColor: rgb(245,245,245);
 
     /* Text */
-    --primaryFont: psfournier-std-petit;
-    --secondaryFont: psfournier-std;
+    --primaryFont: gitan-latin;
+    --secondaryFont: gitan-latin;
 
     /* Weight */
     --weightU: 100;
@@ -82,8 +82,9 @@ h2 {
     margin: 0;
     margin-top: calc(var(--EM) * 2);
     margin-bottom: calc(var(--EM) * -1);
-    padding-left: calc(var(--EM) * 0.2);
-    padding-right: calc(var(--EM) * 0.2);
+    padding-left: calc(var(--EM) * 0.5);
+    padding-right: calc(var(--EM) * 0.5);
+    padding-bottom: calc(var(--EM) * 0.4);
     max-width: fit-content;
 
     /* Text */
@@ -92,6 +93,7 @@ h2 {
     font-weight: var(--weightB);
     font-style: normal;
     font-variant-caps: all-small-caps;
+    letter-spacing: calc(var(--EM) * 0.2);
 
     /* Paragraph */
     line-height: 1.1;
@@ -185,7 +187,10 @@ footer {
     width: 25%;
     margin-left: calc(var(--EM) * 1);
     margin-bottom: calc(var(--EM) * 1);
-    padding: calc(var(--EM) * 0.3);
+    padding-left: calc(var(--EM) * 0.5);
+    padding-right: calc(var(--EM) * 0.5);
+    padding-bottom: calc(var(--EM) * 0.4);
+    padding-top: calc(var(--EM) * 0.2);
 
     position: fixed;
     left: 0;
