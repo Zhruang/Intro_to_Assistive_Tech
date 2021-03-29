@@ -13,7 +13,7 @@
 
     /* Text */
     --primaryFont: gitan-latin;
-    --secondaryFont: gitan-latin;
+    --secondaryFont: arek;
 
     /* Weight */
     --weightU: 100;
@@ -23,8 +23,8 @@
 
     /* Text Size */
     --h1Size: calc(var(--EM) * 2.75);
-    --h2Size: calc(var(--EM) * 2);
-    --h3Size: calc(var(--EM) * 1.2);
+    --h2Size: calc(var(--EM) * 1.8);
+    --h3Size: calc(var(--EM) * 1.4);
     --pSize: calc(var(--EM) * 1);
     --liSize: calc(var(--EM) * .9);
     --capSize: calc(var(--EM) * 0.5);
@@ -111,7 +111,7 @@ h3 {
     padding-bottom: calc(var(--EM) * 1.5);
     
     /* Text */
-    font-family: var(--primaryFont), serif;
+    font-family: var(--secondaryFont), serif;
     font-size: var(--h3Size);
     font-weight: var(--weightB);
     font-style: normal;
@@ -231,7 +231,7 @@ footer {
   height: calc(100vh - calc(var(--EM) * 4.25));
   position: fixed;
   top: 0;
-  left: 0;
+  left: 0%;
   display: block;
   overflow-y: scroll;
   padding-top: calc(var(--EM) * 1);
