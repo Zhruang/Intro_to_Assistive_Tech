@@ -9,7 +9,7 @@
     --color1: rgb(32, 32, 32);
     --color2: rgb(0, 0, 0);
     --color3: rgb(0, 0, 0);
-    --backgroundColor: rgb(244, 240, 238);
+    --backgroundColor: rgb(240, 240, 240);
 
     /* Text */
     --primaryFont: plantin;
@@ -235,6 +235,7 @@ footer {
   display: block;
   overflow-y: scroll;
   padding-top: calc(var(--EM) * 1);
+  padding-left: calc(var(--EM) * 1);
   padding-right: calc(var(--EM) * 1);
   padding-bottom: calc(var(--EM) * 1.75);
 }
