@@ -6,10 +6,10 @@
     --EM: 18px;
 
     /* Color Palette */
-    --color1: rgb(75, 75, 75);
-    --color2: rgb(50, 50, 50);
+    --color1: rgb(32, 32, 32);
+    --color2: rgb(0, 0, 0);
     --color3: rgb(0, 0, 0);
-    --backgroundColor: rgb(245,245,245);
+    --backgroundColor: rgb(244, 240, 238);
 
     /* Text */
     --primaryFont: plantin;
