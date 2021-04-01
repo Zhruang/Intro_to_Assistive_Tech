@@ -24,7 +24,7 @@
     /* Text Size */
     --h1Size: calc(var(--EM) * 2.75);
     --h2Size: calc(var(--EM) * 1.8);
-    --h3Size: calc(var(--EM) * 1.4);
+    --h3Size: calc(var(--EM) * 1.2);
     --pSize: calc(var(--EM) * 1);
     --liSize: calc(var(--EM) * .9);
     --capSize: calc(var(--EM) * 0.5);
@@ -93,7 +93,7 @@ h2 {
     font-weight: var(--weightB);
     font-style: normal;
     font-variant-caps: all-small-caps;
-    letter-spacing: calc(var(--EM) * 0.2);
+    letter-spacing: calc(var(--EM) * 0.1);
 
     /* Paragraph */
     line-height: 1.1;
@@ -107,8 +107,8 @@ h2 {
 h3 {
     /* Spatial Settings */
     margin: 0;
-    padding-top: calc(var(--EM) * .5);
-    padding-bottom: calc(var(--EM) * 1.5);
+    padding-top: calc(var(--EM) * 0.5);
+    padding-bottom: calc(var(--EM) * 1);
     
     /* Text */
     font-family: var(--secondaryFont), serif;
@@ -133,9 +133,10 @@ p {
     font-size: var(--pSize);
     font-weight: var(--weightR);
     font-style: normal;
+    font-variant-numeric: oldstyle-nums;
 
     /* Paragraph */
-    line-height: 1.5;
+    line-height: 1.25;
     text-indent: calc(var(--EM) * 1.5);
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
