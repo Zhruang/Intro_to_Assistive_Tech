@@ -22,8 +22,8 @@
     --weightH: 900;
 
     /* Text Size */
-    --h1Size: calc(var(--EM) * 2.75);
-    --h2Size: calc(var(--EM) * 1.8);
+    --h1Size: calc(var(--EM) * 2);
+    --h2Size: calc(var(--EM) * 1.2);
     --h3Size: calc(var(--EM) * 1.2);
     --pSize: calc(var(--EM) * 1);
     --liSize: calc(var(--EM) * .9);
@@ -55,11 +55,10 @@ body {
 
 h1 {
     /* Spatial Settings */
+    margin: auto;
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: auto;
-    padding-bottom: calc(var(--EM) * 4);
-    padding-right: calc(var(--EM) * 1);
+    padding-bottom: calc(var(--EM) * 2);
     max-width: calc(var(--EM) * 40);
     /* Text */
     font-family: var(--secondaryFont), serif;
@@ -71,7 +70,7 @@ h1 {
 
     /* Paragraph */
     line-height: 1.1;
-    text-align: right;
+    text-align: center;
 
     /* Color */
     color: var(--color2);
@@ -82,26 +81,26 @@ h2 {
     margin: 0;
     margin-top: calc(var(--EM) * 2);
     margin-bottom: calc(var(--EM) * -1);
-    padding-left: calc(var(--EM) * 0.5);
+    padding-left: calc(var(--EM) * 0);
     padding-right: calc(var(--EM) * 0.5);
-    padding-bottom: calc(var(--EM) * 0.1);
-    max-width: fit-content;
+    padding-bottom: calc(var(--EM) * 1.2);
 
     /* Text */
     font-family: var(--primaryFont), serif;
     font-size: var(--h2Size);
     font-weight: var(--weightB);
     font-style: normal;
-    font-variant-caps: all-small-caps;
-    letter-spacing: calc(var(--EM) * 0.1);
+    text-transform: uppercase;
+    letter-spacing: calc(var(--EM) * 0.2);
+    text-align: center;
 
     /* Paragraph */
     line-height: 1.1;
 
     /* Color */
     
-    background: var(--color3);
-    color: var(--backgroundColor);
+    background: var(--backgroundColor);
+    color: var(--color3);
 }
 
 h3 {
@@ -148,14 +147,14 @@ p {
 
 hr {
     /* Spatial Settings */
-    margin-top: calc(var(--EM) * 2);
-    margin-bottom: calc(var(--EM) * 2);
+    margin-top: calc(var(--EM) * 1);
+    margin-bottom: calc(var(--EM) * 1);
 
     /* Color */
     background-color: var(--color3);
 
     /* Style */
-    height: 4px;
+    height: 2px;
     border-width: 0;
 
 }
