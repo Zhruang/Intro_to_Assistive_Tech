@@ -12,8 +12,8 @@
     --backgroundColor: rgb(245,245,245);
 
     /* Text */
-    --primaryFont: gitan-latin;
-    --secondaryFont: arek;
+    --primaryFont: plantin;
+    --secondaryFont: plantin;
 
     /* Weight */
     --weightU: 100;
@@ -84,7 +84,7 @@ h2 {
     margin-bottom: calc(var(--EM) * -1);
     padding-left: calc(var(--EM) * 0.5);
     padding-right: calc(var(--EM) * 0.5);
-    padding-bottom: calc(var(--EM) * 0.4);
+    padding-bottom: calc(var(--EM) * 0.1);
     max-width: fit-content;
 
     /* Text */
@@ -189,7 +189,7 @@ footer {
     margin-bottom: calc(var(--EM) * 1);
     padding-left: calc(var(--EM) * 0.5);
     padding-right: calc(var(--EM) * 0.5);
-    padding-bottom: calc(var(--EM) * 0.4);
+    padding-bottom: calc(var(--EM) * 0.15);
     padding-top: calc(var(--EM) * 0.2);
 
     position: fixed;
