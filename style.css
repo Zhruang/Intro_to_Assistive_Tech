@@ -42,6 +42,7 @@
 body {
     /* Emergency Fallback*/
     font-family: var(--primaryFont), serif;
+    font-kerning: normal;
 
     background-color: var(--backgroundColor);
 
@@ -126,6 +127,7 @@ h3 {
 p {
     /* Spatial Settings */
     margin: 0;
+    display: block;
 
     /* Text */
     font-family: var(--primaryFont), serif;
@@ -143,6 +145,10 @@ p {
 
     /* Color */
     color: var(--color1);
+}
+
+p:first-child {
+  text-indent: 0;
 }
 
 hr {
@@ -216,11 +222,6 @@ footer {
 .colored { /* Apply the third color */
     /* Color */
     color: var(--color3);
-}
-
-.openingParagraph { /* No indent for opening paragraph */
-    /* Paragraph */
-    text-indent: 0;
 }
 
 .sidenav { /* The sidebar menu */

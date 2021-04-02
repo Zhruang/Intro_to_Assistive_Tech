@@ -2,22 +2,61 @@
 
 ### week i
 
+*Inspiration*. Both Ben Shpigel’s essay and Stella Young’s TED talk put this word onto the central stage of debate. *Inspiration*, this seemingly uplifting word, has brought frustration to people who are considered as “disabled”. And, it’s never been the word’s fault, it sure is to be used to convey an encouraging and positive attitude. The problem surfaces however when the word *inspiration* is used when “normal” people try to fabricate a narrative around the “disabled” people to encourage another group of “normal” people. The majority in the society, the “normal”, is the sender and the recipient, the manufacturer and the consumer — the absolute center of this celebration carnival. Yet the “disabled” is put into the position of the consumable and the prey. This sickening narrative “[objectifies] one group of people for the benefit of another group of people”, said by Young. “Disabled” people have the chance to make their appearances in the public view nowadays largely because the dominant majority sees the potential in them as “objects of inspiration” that can in turn better serve the the majority of this society which actually disable the “disabled” and put them into difficult positions more than anything else. “Disabled” people are fundamentally othered according to an ever-present definition of *normalcy* and every bits of their virtues, achievements and humanity are thus evaluated differently which to a certain degree leads to the dehumanization of the “disabled” people. 
+
+So the next question is, who’s to define *normalcy*? I intentionally put quotation marks on the word “disabled” and the word “normal” every time they appear in the paragraph above for I believe that there is an urge to reflect on and re-evaluate our preconception of these two notions and to question the nature of *normalcy*. Asides from people who are more commonly classified as having disabilities, the elderly, shortsighted people, mid-aged employees who suffer from depression and anxiety, young kids, people who have lactose intolerance, just to name a few, may all run into all sort of difficult situations. And what’s most important, many many of the difficult situations and discriminations towards these people are fundamentally encouraged and bred by this society of low tolerance and ignorance. 
+
+In fact, most standards we tend to set as the *normalcy* across different fields are non-representative, to put it nicely, or faulty, to put it more accurately. A presumption that a person should have one head, two arms, two legs, should be able to do five push-ups, enjoy peanut butter, operate a smartphone and so on has made us narrow-minded. Apart from blunt discriminations, physical or verbal, towards people who fail to meet the society’s standard for *normalcy*, a broader and seemingly invisible discrimination emerges on a cultural level, and manifests itself most profoundly in field of industrial design, according to Sara Hendren. The modern industrial design, despite those “inspirational” promises that advanced technologies and design theories have given to us, has greatly failed in being aware of the different and personalized needs from different people in different physical and mental conditions and in turn accommodate for each. Most of the so-called “human factors design” data put into the ergonomic design are almost solely based on healthy, young, white males. This monopolized kind of human condition and aesthetics might even recall Walter Benjamin’s theory of “the aestheticization of politics” which in Benjamin’s words was the key ingredient to the fascist regimes. In order to combat this dangerous intolerance, the next step should be for us to advocate for an open mind that can accept different people as being different, and to be more democratic and inclusive in the designing and decision-making process.
+
+
+
+
+
+Who’s to define the normalcy?
+
+Universal Design / User Friendly Design
+
+
+
+
+
 #### On Ben Shpigel’s *Paralympic Athletes’ Least Favorite Word: Inspiration*
 
-#### On Stella Young’s *“I am not your inspiration, thank you very much”* 
+#### On Stella Young’s *“I am not your inspiration, thank you very much”*
 
 “Object of inspiration”
 
-“Inspiration porn” -> objectify one group of people for the benefit of another group of people
+“Inspiration porn” –> objectify one group of people for the benefit of another group of people
 
--> are disable more by the society that disabled people live in than by their bodies and diagnoses
+–> are disable more by the society that disabled people live in than by their bodies and diagnoses
 
--> value genuine achievement for disabled people
+–> value genuine achievement for disabled people
+
+–> without phone
 
 #### On Aimee Mullins’ *My 12 Pairs of Legs*
 
--> somebody that had potential that their bodies didn't have yet.
+–> somebody that had potential that their bodies didn't have yet.
 
--> super-abled
+–> super-abled
 
--> potential / augmentation / accessories
+–> potential / augmentation / accessories
+
+
+
+#### On Chair
+
+–> a piece of furniture –> no character on its own, but customized to fit the character of the user
+
+–> ergonomic 
+
+–> sitting through major part of the time ? 
+
+–> user adapt to the chair rather than vice versa
+
+–> “most secretaries in the United States are female, and most human factors design data, also unfortunately, are based on white males between the ages of eighteen and twenty-five…”
+
+–> the users get involved in the design process 
+
+–> bespoke, but also the larger market and mass production
+
