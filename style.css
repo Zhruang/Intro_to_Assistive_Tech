@@ -151,6 +151,7 @@ p:first-child {
   text-indent: 0;
 }
 
+
 hr {
     /* Spatial Settings */
     margin-top: calc(var(--EM) * 1);
@@ -314,9 +315,9 @@ scrollbar-width: none;  /* Firefox */
   
 }
 
-.reverse-flexbox {
+.flexbox {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
 }
 
 @media (max-width: 600px) {
@@ -350,5 +351,6 @@ scrollbar-width: none;  /* Firefox */
     /* Paragraph */
     column-count: 2;
     column-gap: calc(var(--EM) * 1.5);
+    column-rule: ;
   }
 }
