@@ -43,6 +43,7 @@ body {
     /* Emergency Fallback*/
     font-family: var(--primaryFont), serif;
     font-kerning: normal;
+    letter-spacing: calc(var(--EM) * 0.01);
 
     background-color: var(--backgroundColor);
 
@@ -115,7 +116,6 @@ h3 {
     font-size: var(--h3Size);
     font-weight: var(--weightB);
     font-style: normal;
-    /*ext-transform: lowercase;*/
 
     /* Paragraph */
     line-height: 1.1;
@@ -191,7 +191,6 @@ footer {
   
     /* Spatial Settings */
     max-width: calc(var(--EM) * 24);
-    width: 25%;
     margin-left: calc(var(--EM) * 1);
     margin-bottom: calc(var(--EM) * 1);
     padding-left: calc(var(--EM) * 0.5);
@@ -202,12 +201,13 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
-    max-width: fit-content;
+    width: max-content;
 
     /* Text */
     font-family: var(--primaryFont), serif;
     font-size: var(--capSizepSize);
     font-weight: var(--weightR);
+    letter-spacing: calc(var(--EM) * 0.02);
 
     /* Paragraph */
     line-height: 1.25;
@@ -334,8 +334,6 @@ scrollbar-width: none;  /* Firefox */
     margin-left: auto;
     margin-bottom: 0;
     text-align: right;
-    min-width: 0;
-    width: auto;
   }
   footer hr {
     margin: auto;
