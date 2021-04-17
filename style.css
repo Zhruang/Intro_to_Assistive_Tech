@@ -261,7 +261,7 @@ footer {
 
 .sidenav ul {
   /* Spatial Settings */
-  padding-left: calc(var(--EM) * 1);
+  padding-left: calc(var(--EM) * 0);
   display: block;
   margin: 0;
 
