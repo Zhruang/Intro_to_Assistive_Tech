@@ -187,6 +187,12 @@ hr {
   margin-right: 0;
 }
 
+img {
+  display: block;
+  padding: var(--EM) 0;
+  margin: auto;
+}
+
 footer {
   
     /* Spatial Settings */
@@ -349,6 +355,5 @@ scrollbar-width: none;  /* Firefox */
     /* Paragraph */
     column-count: 2;
     column-gap: calc(var(--EM) * 1.5);
-    column-rule: ;
   }
 }
